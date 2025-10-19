@@ -1,0 +1,5 @@
+PatientID,Age,Sex,BloodPressure,Choiesterole,Diagnosis 
+1,20,130,150,Healthy 
+2,30,130,150,Healthy 
+3,10,130,150,NotHealthy 
+4,40,130,150,NotHealthy 
